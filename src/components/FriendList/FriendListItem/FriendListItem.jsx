@@ -1,5 +1,3 @@
-import { type } from '@testing-library/user-event/dist/type';
-import { getValue } from '@testing-library/user-event/dist/utils';
 import PropTypes from 'prop-types';
 import {FriendItem, Status, FriendAvatar, FriendName} from '../FriendListItem/FriendListItem.styled'
 
